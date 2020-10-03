@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "La Casa de Papel",
+        "duracao": "4 temporadas"
+      },
+      {
+        "id": 2,
+        "titulo": "Away",
+        "duracao": "1 temporada"
+      },
+      {
+        "id": 3,
+        "titulo": "Suits",
+        "duracao": "9 temporadas"
+      },
+      {
+        "id": 1,
+        "titulo": "3%",
+        "duracao": "4 temporadas"
+      }
+]

@@ -8,11 +8,11 @@
 
 const express = require('express');
 const app = express();
-const musicas = require('./routes/musicasRoutes');
+const series = require('./routes/seriesRoutes');
 
 app.use(express.static('public'))
 
-app.use('/',musicas);
+app.use('/',series);
 
 app.get('*', (req, res) => {
     res.status(404).sendFile('./views/404.html', { root: __dirname})
