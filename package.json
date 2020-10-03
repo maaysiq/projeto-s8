@@ -1,0 +1,25 @@
+{
+  "name": "projeto-s8",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <br>   <img src=\"public/imagens/developer.png\" alt=\"mulher negra usando computador\" width=\"216\">   <br>     <br>     <p align=\"center\">Projeto Prático - Semana 8 - Criação de API<p> </h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maaysiq/projeto-s8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maaysiq/projeto-s8/issues"
+  },
+  "homepage": "https://github.com/maaysiq/projeto-s8#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
