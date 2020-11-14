@@ -23,4 +23,5 @@ const getById = (req, res) => {
 
 }
 
+
     module.exports = { getaAll, getById}
